@@ -1,0 +1,5 @@
+copy-item -path .\410\carrillolaranatalia_89141_111233117_O_A01705518.py -destination .\app.py
+git add app.py
+git commit -m "carrillolaranatalia_89141_111233117_O_A01705518"
+git push origin master
+
