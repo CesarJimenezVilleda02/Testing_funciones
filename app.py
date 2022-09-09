@@ -1,5 +1,3 @@
-#Natalia Carrillo Lara A0170518
-
 import math
 
 def sector(radio, angulo):
