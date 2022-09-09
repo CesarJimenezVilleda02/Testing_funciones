@@ -1,4 +1,4 @@
-from app.py import sector, eclipse, paralelogramo
+from app import sector, eclipse, paralelogramo
 
 def test_sector_1():
     assert sector(5,45) == 9.817477042468104
